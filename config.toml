@@ -1,3 +1,6 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://ichichou.github.io/blog/"
+title = "MEMORANDUM"
+author = "ichichou"
+languageCode = "ja"
+hasCJKLanguage = true
+theme = "anubis"
